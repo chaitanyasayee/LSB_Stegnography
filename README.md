@@ -142,6 +142,4 @@ That's it! You have successfully used the LSB Steganography program to hide and 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-```
 
-You can copy the above template into a text file and save it as `README.md` in your project directory. Feel free to modify the content to better suit your program and add any additional information you find relevant.
